@@ -1,1 +1,1 @@
-# DS5500_Data-Science-Capstone
+# DS5500 Data Science Capstone
